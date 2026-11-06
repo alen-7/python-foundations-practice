@@ -1,0 +1,3 @@
+Students: 5
+Average score: 61.6
+Top student: Emeka (90)
