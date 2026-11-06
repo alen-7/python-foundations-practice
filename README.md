@@ -11,7 +11,7 @@ Author: Chinecherem Ude
 
 ## Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/alen-7/python-foundations-practice.git
 cd python-foundations-practice
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
