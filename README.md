@@ -26,7 +26,7 @@ pip install -r requirements.txt
 | 3 | `03_loops` | Loops | `python 03_loops/loops_demo.py` |
 | 4 | `04_functions` | Functions (tested) | `python 04_functions/functions.py` |
 | 5 | `05_modules` | Modules | `cd 05_modules && python main.py` |
-| 6 | `06_error_handling` | Error handling | `python 06_error_handling/safe_calculator.py` |
+| 6 | `06_error_handling` | Error handling | `cd python 06_error_handling/safe_calculator.py` |
 | 7 | `07_file_handling` | File handling (tested) | `python 07_file_handling/file_handling.py` |
 | 8 | `08_script_organisation` | Script organisation | `python 08_script_organisation/expense_tracker.py` |
 
